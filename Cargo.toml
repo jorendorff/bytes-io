@@ -5,3 +5,7 @@ authors = ["Jason Orendorff <jorendorff@github.com>"]
 edition = "2018"
 
 [dependencies]
+bytes = "1.0.1"
+
+[dev-dependencies]
+prost = "0.7"
